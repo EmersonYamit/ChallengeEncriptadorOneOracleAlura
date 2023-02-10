@@ -84,8 +84,8 @@ main{
     cursor: pointer;
     height: 67;
     margin-left: 108px;
-    margin-top: 670px;
-    position: absolute;
+    margin-top: 85px;
+    /*position: absolute;*/
     width: 336px;
     transition: 1s all
 }
