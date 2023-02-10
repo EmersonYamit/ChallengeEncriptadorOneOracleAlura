@@ -39,7 +39,7 @@ main{
     color: #0A3871;
     margin-left: 98px;
     margin-top: 20px;
-    position: fixed;
+    /*position: fixed;*/
 }
 .mensaje:focus{
     outline: none;
