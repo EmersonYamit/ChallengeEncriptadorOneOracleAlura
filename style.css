@@ -16,7 +16,7 @@ main{
     margin-left: 80px;
 }
 .text-area{
-    background-image: url(/imagenes/encriptarPpal.jpg);
+    background-image: url(imagenes/encriptarPpal.jpg);
     border: none;   
     margin-top: 40px;
     color: black;
@@ -31,7 +31,7 @@ main{
 .mensaje{
     background: white;
     height: 550px;
-    background-image: url(/imagenes/encriptar.png);
+    background-image: url(imagenes/encriptar.png);
     background-repeat: no-repeat; /*para que no se repita la imagen*/
     background-position: center;
     border: none;
